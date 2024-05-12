@@ -5,6 +5,8 @@ date:   2024-05-12 20:42:12 +0200
 categories: linux fedora
 published: true
 ---
+# Trying out Fedora Silverblue
+
 I recently decided to try out [Fedora Silverblue](https://fedoraproject.org/atomic-desktops/silverblue/) as my main Linux desktop OS. I had been a happy Fedora Core user for a couple of years and now wanted to learn what all the fuzz about Silverblue and friends is about.
 
 ## Why Silverblue?
